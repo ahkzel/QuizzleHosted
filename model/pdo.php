@@ -1,9 +1,9 @@
 <?php
 class CoPDO {
-    private $host = 'localhost';
-    private $db_name = 'ppe';
-    private $username = 'root';
-    private $password = 'FrouFrou';
+    private $host = 'sql103.infinityfree.com';
+    private $db_name = 'if0_41398288_ppe';
+    private $username = 'if0_41398288';
+    private $password = 'M1rm1Fr0u1lle';
     private $con;
 
     public function co_pdo() {
